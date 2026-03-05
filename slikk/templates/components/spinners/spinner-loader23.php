@@ -1,0 +1,1 @@
+<div class="spinner line-scale"><div></div><div></div><div></div><div></div><div></div></div>

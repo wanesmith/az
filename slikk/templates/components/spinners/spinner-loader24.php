@@ -1,0 +1,1 @@
+<div class="spinner line-scale-party"><div></div><div></div><div></div><div></div></div>

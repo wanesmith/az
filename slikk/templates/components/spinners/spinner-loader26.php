@@ -1,0 +1,1 @@
+<div class="spinner ball-pulse-sync"><div></div><div></div><div></div></div>

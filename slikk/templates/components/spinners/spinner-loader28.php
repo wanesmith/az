@@ -1,0 +1,1 @@
+<div class="spinner ball-scale-ripple-multiple"><div></div><div></div><div></div></div>

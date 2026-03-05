@@ -1,0 +1,1 @@
+<div class="spinner ball-rotate"><div></div></div>
